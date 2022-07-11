@@ -88,7 +88,7 @@ jQuery(document).ready(function($) {
         i.next('.validation').html((ierror ? (i.attr('data-msg') != undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
       }
     });
-
+    if (ferror) return false;
     /*
     $.ajax({
       type: "POST",
@@ -108,7 +108,7 @@ jQuery(document).ready(function($) {
 
       }
     });*/
-    return false;
+    //return false;
   });
 
 });
