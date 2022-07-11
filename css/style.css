@@ -1459,3 +1459,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ddd;
 }
+
+.modal-subscribe{
+  color: blue;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: bold;
+}
