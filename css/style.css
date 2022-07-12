@@ -810,6 +810,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: left;
   transition: .9s;
 }
+/* Skills Section
+--------------------------------*/
+.skill img {
+  padding: 10px 25px 10px 25px;
+}
+
 
 /* Facts Section
 --------------------------------*/
