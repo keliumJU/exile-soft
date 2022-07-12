@@ -1472,3 +1472,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-style: italic;
   font-weight: bold;
 }
+.to-action{
+  font-size:16px;
+}
